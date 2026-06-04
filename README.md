@@ -188,13 +188,15 @@ const bhushan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BhushanC23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=BhushanC23&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9&stroke=0ea5e9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=BhushanC23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhushanC23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117" />
 
-<br/><br/>
+</div>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhushanC23&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" />
-
+<div align="center">
+<br/>
+<img src="https://streak-stats.demolab.com/?user=BhushanC23&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9" />
 </div>
 
 <br/>
@@ -205,7 +207,7 @@ const bhushan = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BhushanC23&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=BhushanC23&theme=tokyonight&no-frame=true&margin-w=4&column=4" />
 
 </div>
 
@@ -217,39 +219,24 @@ const bhushan = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhushanC23&theme=tokyo-night&hide_border=true&area=true&color=0ea5e9&line=6366f1&point=ffffff&area_color=0ea5e940)](https://github.com/BhushanC23)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhushanC23&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 <br/>
 
-<!-- ─── SNAKE ANIMATION ──────────────────────────────────────────────── -->
+<!-- ─── SNAKE — activate after running GitHub Action (snake.yml) ──────── -->
+<!-- Uncomment the block below AFTER running the workflow once:
 
 ## 🐍 &nbsp; Contribution Snake
 
-<!-- 
-  ════════════════════════════════════════════════════════
-  ONE-TIME SETUP (takes ~2 mins) — activates snake below:
-
-  1. In this repo, create: .github/workflows/snake.yml
-  2. Paste the YAML from the comment block at the bottom
-  3. Go to Actions tab → "Generate Snake Animation" → Run workflow
-  4. After it completes, the snake SVG below will work live!
-  ════════════════════════════════════════════════════════
--->
-
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/BhushanC23/BhushanC23/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/BhushanC23/BhushanC23/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/BhushanC23/BhushanC23/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhushanC23/BhushanC23/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/BhushanC23/BhushanC23/output/github-contribution-grid-snake.svg" />
 </picture>
-
 </div>
+-->
 
 <br/>
 
