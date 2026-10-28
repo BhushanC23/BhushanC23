@@ -1,160 +1,209 @@
+<!-- ╔═══════════════════════════ HERO ═══════════════════════════╗ -->
 <div align="center">
 
-<!-- Animated hero banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:2563eb,70:7c3aed,100:c026d3&height=200&section=header&text=Bhushan%20Chaturbhuj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security-minded%20Engineer%20%7C%20Builder&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,30:2563eb,65:7c3aed,100:c026d3&height=240&section=header&text=Bhushan%20Chaturbhuj&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20Creative%20Developer%20%E2%80%A2%20I%20build%20%26%20ship%20real%20products&descSize=18&descAlignY=56" width="100%" />
 
-<!-- Typing tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=I+build+secure%2C+India-first+products.;Full-stack+%7C+React+%2B+Node+%2B+MongoDB.;MCA+Final+Year+%40+Sanjivani+University.;Turning+real+problems+into+real+software." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+React+%2B+Node+%2B+MongoDB;Web3+%26+AI-powered+apps+that+actually+ship;MCA+Final+Year+%40+Sanjivani+%7C+NEC+2025+Rank+%2352;Developer+by+day%2C+video+creator+by+night+%F0%9F%8E%AC" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Quick-link badges -->
-<a href="https://www.linkedin.com/in/bhushan-chaturbhuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://bhushan-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:bhushan.chaturbhuj_25pca@sanjivani.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[RESUME_LINK_YAHAN_DAALO]"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-<a href="https://www.instagram.com/bhushxn.ltd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=BhushanC23&label=Profile%20views&color=2563eb&style=flat" alt="profile views" />
-<img src="https://img.shields.io/badge/📍_Shirdi,_Maharashtra-India-FF9933?style=flat" />
-<img src="https://img.shields.io/badge/Open_to-SDE_%2F_Full--Stack_roles-10B981?style=flat" />
-
-</div>
-
----
-
-### 👋 About me
-
-```typescript
-const bhushan = {
-  role: "Full-Stack Developer & Security-minded Engineer",
-  education: "MCA (Final Year) @ Sanjivani University, Kopargaon",
-  location: "Shirdi, Maharashtra, India 🇮🇳",
-  currently: "Preparing to enter the industry — hunting for a strong SDE role",
-  focus: ["Production-grade full-stack apps", "Security-by-design", "RegTech / India-first products"],
-  philosophy: "If it ships, it ships secure — and I can explain every line.",
-  funFact: "By night I'm a content creator & video editor (reels + edits on Instagram 🎬)",
-};
-```
-
-I'm a full-stack developer who likes building **complete, real-world products** — not just toy
-demos. My strongest work is **Privora**, a privacy-compliance platform for Indian SMEs where I
-owned everything end-to-end: a deterministic rule engine, a secure Node/Express API, a React
-frontend with GSAP animations, and security built into every module. I care about clean,
-readable, well-tested code that I can defend in a room full of engineers.
-
----
-
-### 🚀 Featured project — Privora
-
-<div align="center">
-<a href="https://github.com/BhushanC23/privora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhushanC23&repo=privora&theme=tokyonight&border_color=2563eb&hide_border=false" />
+<!-- ★ PORTFOLIO — the hero CTA (big, impossible to miss) ★ -->
+<a href="https://bhushan-portfolio-peach.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" height="42" />
 </a>
-</div>
-
-> **Privacy compliance, made simple for Indian SMEs.** An AI-assisted platform to get small
-> businesses ready for India's DPDP Act, 2023 — with a readiness score, a website scanner, a
-> consent vault, a breach tracker and a PII masking lab.
-
-- 🧠 **Deterministic rule engine** makes every legal decision from a versioned rule set — never an
-  LLM. Google Gemini only *explains* results, and a validator discards any invented legal citation.
-- 🔐 **Security-by-design:** AES-256-GCM encryption, HMAC-SHA256 hashing, SSRF-safe scanner,
-  hash-chained tamper-evident consent logs, JWT + bcrypt, Zod validation, rate limiting.
-- ⚙️ **Stack:** React (Vite) · Tailwind · GSAP · Node/Express · MongoDB · Vitest (87 tests passing).
-- 🎨 Premium animated UI with a self-playing product demo and full light/dark mode.
-
-<div align="center">
-<a href="https://github.com/BhushanC23/privora"><img src="https://img.shields.io/badge/View_the_code_→-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
----
-
-### 🛠️ Tech stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Database & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-**Security & Testing**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BhushanC23&show_icons=true&theme=tokyonight&hide_border=false&border_color=2563eb&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhushanC23&layout=compact&theme=tokyonight&hide_border=false&border_color=2563eb&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhushanC23&theme=tokyonight&hide_border=false&border=2563eb" />
-
-</div>
-
----
-
-### 🎬 Beyond code
-
-When I'm not building software, I'm editing video — I create trendy reels and edits on Instagram
-as **[@bhushxn.ltd](https://www.instagram.com/bhushxn.ltd/)**. It keeps my design eye sharp, which
-shows up in the UI/UX of everything I build.
-
----
-
-### 🤝 Let's connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bhushan-chaturbhuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://bhushan-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:bhushan.chaturbhuj_25pca@sanjivani.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/bhushxn.ltd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
 
-<i>💬 Open to full-stack / SDE opportunities — let's talk.</i>
+<a href="https://www.linkedin.com/in/bhushan-chaturbhuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26" /></a>
+<a href="mailto:bhushan.chaturbhuj_25pca@sanjivani.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="26" /></a>
+<a href="[RESUME_LINK]"><img src="https://img.shields.io/badge/Resume-10B981?style=flat-square&logo=readdotcv&logoColor=white" height="26" /></a>
+<a href="https://www.instagram.com/bhushxn.ltd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="26" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,30:7c3aed,65:2563eb,100:06b6d4&height=120&section=footer" width="100%" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=BhushanC23&label=Profile%20views&color=2563eb&style=flat" />
+<img src="https://img.shields.io/badge/📍_Shirdi,_Maharashtra_🇮🇳-FF9933?style=flat" />
+<img src="https://img.shields.io/badge/💼_Open_to_SDE_%2F_Full--Stack_roles-10B981?style=flat" />
 
 </div>
+
+<!-- animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:7c3aed,100:c026d3&height=3" width="100%" />
+
+<br/>
+
+## &nbsp; 👋 &nbsp; whoami
+
+```typescript
+const bhushan: Developer = {
+  role:       "Full-Stack & Creative Developer",
+  education:  "MCA (Final Year) @ Sanjivani University, Kopargaon",
+  based:      "Shirdi, Maharashtra, India 🇮🇳",
+  recognition:"NEC 2025 — Rank #52 🏅",
+  nowBuilding:["Privora (RegTech)", "AegisFlow (Web3 security)", "EVSync", "AR apps"],
+  mission:    "Break into the industry and land a role where I ship real products",
+  codeStyle:  "Clean, tested, well-commented — code I can defend line by line",
+  alsoAre:    "a content creator & video editor 🎬 (reels + edits @bhushxn.ltd)",
+};
+```
+
+I build **complete, production-style products** — not throwaway demos. From a privacy-compliance
+platform with its own rule engine, to a Web3 transaction-security firewall, to a cinematic
+AI-powered portfolio — I like taking an idea all the way from design to a shipped, working app.
+My creator side (video editing) keeps my design eye sharp, which shows in the UI/UX of everything
+I make.
+
+<br/>
+
+<!-- ╔═══════════════════════ FEATURED WORK ═══════════════════════╗ -->
+## &nbsp; �️ &nbsp; Featured builds
+
+<div align="center">
+
+<a href="https://github.com/BhushanC23/privora">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhushanC23&repo=privora&theme=tokyonight&border_color=2563eb&icon_color=06b6d4" width="49%" />
+</a>
+<a href="https://github.com/BhushanC23/AegisFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhushanC23&repo=AegisFlow&theme=tokyonight&border_color=7c3aed&icon_color=c026d3" width="49%" />
+</a>
+
+<a href="https://github.com/BhushanC23/bhushan-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhushanC23&repo=bhushan-portfolio&theme=tokyonight&border_color=06b6d4&icon_color=2563eb" width="49%" />
+</a>
+<a href="https://github.com/BhushanC23/student-productivity-suite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhushanC23&repo=student-productivity-suite&theme=tokyonight&border_color=c026d3&icon_color=7c3aed" width="49%" />
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ Privora** — _RegTech / Full-Stack_
+A DPDP Act compliance platform for Indian SMEs: a deterministic rule engine, readiness scoring,
+SSRF-safe scanner, hash-chained consent logs & breach tracker. **React · Node · MongoDB · 87 tests.**
+
+</td>
+<td width="50%" valign="top">
+
+**⚔️ AegisFlow** — _Web3 Security_
+A transaction-security firewall + Chrome extension. Decodes EVM calldata, runs dry-run simulations
+with Viem, and uses AI to flag phishing & risky approvals **before you sign.** **TypeScript.**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ Cinematic Portfolio** — _Frontend / Motion_
+A scroll-driven developer portfolio with GSAP scrub animations and an integrated Gemini AI
+assistant. **React · Vite · Tailwind · GSAP.**
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 Student Productivity Suite** — _Desktop App_
+An all-in-one dashboard: smart tasks, a DSA tracker, focus timer & notes in a Windows-11-style UI.
+**Python · CustomTkinter.**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/BhushanC23?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories_→-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c026d3,50:7c3aed,100:06b6d4&height=3" width="100%" />
+
+<br/>
+
+<!-- ╔═══════════════════════════ STACK ═══════════════════════════╗ -->
+## &nbsp; 🧰 &nbsp; My toolkit
+
+<div align="center">
+
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+</p>
+
+**Frontend &nbsp;·&nbsp; Motion**
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma" />
+&nbsp;
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="28" />
+</p>
+
+**Backend &nbsp;·&nbsp; Database**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+**AI &nbsp;·&nbsp; Web3 &nbsp;·&nbsp; Tools**
+<p>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Viem_/_Web3-F6851B?style=for-the-badge&logo=ethereum&logoColor=white" height="28" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:7c3aed,100:c026d3&height=3" width="100%" />
+
+<br/>
+
+<!-- ╔═══════════════════ STATS — the "hype" block ═══════════════════╗ -->
+## &nbsp; 📈 &nbsp; The numbers
+
+<div align="center">
+
+<!-- Big summary card: totals, commits, PRs, stars — reads as impressive at a glance -->
+<img src="https://github-readme-stats.vercel.app/api?username=BhushanC23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Bhushan's%20GitHub%20Analytics&rank_icon=github" width="54%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhushanC23&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" width="40%" />
+
+<br/><br/>
+
+<!-- Trophy showcase — recruiters love this; it fills space with achievement badges -->
+<img src="https://github-profile-trophy.vercel.app/?username=BhushanC23&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" />
+
+<br/><br/>
+
+<!-- Contribution activity graph — shows momentum over time -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhushanC23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563eb&line=7c3aed&point=c026d3&area=true" width="98%" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c026d3,50:7c3aed,100:06b6d4&height=3" width="100%" />
+
+<br/>
+
+<!-- ╔═══════════════════════ CONNECT ═══════════════════════╗ -->
+## &nbsp; 🤝 &nbsp; Let's build something
+
+<div align="center">
+
+I'm actively looking for **full-stack / SDE roles.** If you're hiring, collaborating, or just want
+to talk shop — my inbox is open.
+
+<br/>
+
+<a href="https://bhushan-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" height="38" /></a>
+<a href="https://www.linkedin.com/in/bhushan-chaturbhuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" /></a>
+<a href="mailto:bhushan.chaturbhuj_25pca@sanjivani.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" /></a>
+<a href="https://www.instagram.com/bhushxn.ltd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,35:7c3aed,70:2563eb,100:06b6d4&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
